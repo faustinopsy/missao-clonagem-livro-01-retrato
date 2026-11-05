@@ -4,6 +4,14 @@ Código do livro **Missão Clonagem · Livro 1: Retrato**, sobre reconhecimento 
 
 Este repositório acompanha o livro. A explicação de cada linha, as saídas reais e os erros comuns estão nos capítulos; aqui ficam os scripts prontos, para você copiar, comparar e corrigir os seus.
 
+## Baixar o código
+Na página do repositório, clique em **Code → Download ZIP** e extraia a pasta. Se você usa Git:
+
+```powershell
+git clone https://github.com/faustinopsy/missao-clonagem-livro-01-retrato.git
+cd missao-clonagem-livro-01-retrato
+```
+
 ## O que você vai precisar
 - Windows (o livro foi escrito e testado no Windows 11).
 - Uma webcam (a do notebook serve).
