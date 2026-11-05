@@ -1,0 +1,22 @@
+# Maletas (ambientes virtuais) e cache do Python
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+
+# Dados pessoais: fotos, amostras, descritores e registros (NUNCA publicar)
+dados-pessoais/
+**/dados-pessoais/
+
+# Modelos baixados em cada computador (veja modelos/LEIA-ME.md)
+modelos/*.onnx
+modelos/*.task
+estudio/modelos/
+
+# Estúdio: configuração local, projeto padrão, log e saídas do PyInstaller
+estudio/config.json
+estudio/projeto/
+estudio/estudio.log
+estudio/build/
+estudio/dist/
+estudio/*.spec

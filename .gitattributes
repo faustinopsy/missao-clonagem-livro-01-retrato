@@ -1,0 +1,5 @@
+# Texto com quebra de linha normalizada pelo Git
+* text=auto
+
+# Os .bat precisam de quebra de linha do Windows (CRLF) para rodar bem
+*.bat text eol=crlf

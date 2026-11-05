@@ -1,0 +1,26 @@
+Estudio de Treino - Missao Clonagem, Livro 1 (Capitulos 6 e 7)
+
+Este programa inclui os modelos abaixo, redistribuidos sem alteracoes:
+
+  face_landmarker.task (MediaPipe Face Landmarker)
+  Autor: Google LLC
+  Licenca: Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0
+  Origem: https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker
+  SHA-256: 64184E229B263107BC2B804C6625DB1341FF2BB731874B0BCC2FE6544E0BC9FF
+
+  face_detection_yunet_2023mar.onnx (YuNet, OpenCV Zoo)
+  Autores: Wei Wu, Hanyang Peng, Shiqi Yu
+  Licenca: MIT - https://huggingface.co/opencv/face_detection_yunet
+  SHA-256: 8F2383E4DD3CFBB4553EA8718107FC0423210DC964F9F4280604804ED2552FA4
+
+  face_recognition_sface_2021dec.onnx (SFace, OpenCV Zoo)
+  Autor: Yaoyao Zhong (conversao ONNX: Chengrui Wang)
+  Licenca: Apache License 2.0 - https://huggingface.co/opencv/face_recognition_sface
+  SHA-256: 0BA9FBFA01B5270C96627C4EF784DA859931E02F04419C829E83484087C34E79
+
+Bibliotecas incluidas no Estudio.exe (cada uma com a sua licenca):
+  MediaPipe (Apache 2.0), OpenCV (Apache 2.0), NumPy (BSD), scikit-learn (BSD),
+  joblib (BSD), Pillow (MIT-CMU), Matplotlib (licenca Matplotlib, baseada
+  na PSF), Python e Tkinter (PSF).
+O Estudio.exe foi gerado com o PyInstaller (GPL 2.0 com excecao para o
+programa empacotado: o .exe gerado pode ter a licenca que o autor escolher).
